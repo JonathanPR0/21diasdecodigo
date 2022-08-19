@@ -1,5 +1,5 @@
 <h1 style="text-align: center; font-weight: bold">#21diasdecodigo 👨🏽‍💻</h1>
-O <em>21diasdecódigo</em> é um desafio proposto pela Rocketseat em que os devs que aceitarem terão que codar todos os dias, cumprindo assim alguns minidesafios.
+O <em>21diasdecódigo</em> é um desafio proposto pela Rocketseat em que os devs que aceitarem terão que codar todos os dias durante 21 dias, cumprindo assim alguns minidesafios.
 
 ---
 
@@ -17,7 +17,7 @@ Nesse primeiro dia deve-se criar um repositório para listar os projetos que ser
 ---
 
 <br>
-    
+
 ## Dia 2 - Hello World!
 
 Faça um Hello World customizado com fontes, cores e imagens.
