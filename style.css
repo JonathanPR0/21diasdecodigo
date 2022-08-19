@@ -161,7 +161,7 @@ section#challenges div#gridchallenges {
       grid-template-columns: 1fr 1fr 1fr;
 }
 
-section#challenges div.challenger {
+section#challenges div.challenge {
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
@@ -184,11 +184,11 @@ section#challenges div.challenger {
   background-color: #eceef3;
 }
 
-section#challenges div.challenger h3 {
+section#challenges div.challenge h3 {
   color: #39518f;
 }
 
-section#challenges div.challenger img {
+section#challenges div.challenge img {
   width: 100%;
   height: 100%;
   -o-object-fit: cover;
@@ -197,7 +197,7 @@ section#challenges div.challenger img {
   border-radius: 8px;
 }
 
-section#challenges div.challenger a {
+section#challenges div.challenge a {
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
@@ -219,12 +219,12 @@ section#challenges div.challenger a {
   transition: ease-in-out 0.5s;
 }
 
-section#challenges div.challenger a:hover {
+section#challenges div.challenge a:hover {
   color: #455fa1;
   border-color: #455fa1;
 }
 
-section#challenges div.challenger a:hover svg {
+section#challenges div.challenge a:hover svg {
   fill: #455fa1;
 }
 
