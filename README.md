@@ -25,3 +25,15 @@ Faça um Hello World customizado com fontes, cores e imagens.
 - HTML
 - CSS
 - JavaScript
+
+## Dia 3 - Botão Animado
+
+Crie um botão animado
+
+<img src="./public/day3.gif" style="margin-bottom: 10px;">
+
+**Tecnologias:**
+
+- HTML
+- CSS
+- JavaScript
