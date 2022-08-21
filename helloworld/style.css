@@ -5,6 +5,9 @@
 }
 
 body {
+  display: flex;
+  align-items: center;
+  justify-content: center;
   height: 100vh;
   font-family: 'IBM Plex Mono', monospace;
   line-height: 1.5;
@@ -24,6 +27,8 @@ main {
   display: flex;
   align-items: center;
   justify-content: center;
+  text-align: center;
+  padding: 32px;
 
   position: relative;
   width: 100%;
@@ -32,6 +37,7 @@ main {
 }
 
 h1.title {
+  font-size: 3rem;
   font-weight: 700;
   cursor: none;
   color: #f4f3ee;
@@ -69,5 +75,18 @@ h1:after {
   }
   50% {
     opacity: 0;
+  }
+}
+
+@media (max-width: 768px) {
+  h1.title {
+    font-size: 2rem;
+  }
+  .stamp {
+    width: 15vh;
+    height: 15vh;
+    top: 5%;
+    left: 5%;
+    font-size: 1rem;
   }
 }
