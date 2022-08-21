@@ -12,10 +12,10 @@ keys.forEach((key) => {
       addDigit(key.innerHTML);
     } else if (key.innerHTML === "=") {
       equals();
-      operatorsArray.splice(0, operatorsArray.length - 1);
+      operatorsArray.splice(0, operatorsArray.length);
     } else {
       display.innerHTML = "0";
-      operatorsArray.splice(0, operatorsArray.length - 1);
+      operatorsArray.splice(0, operatorsArray.length);
     }
   })
 })
@@ -23,6 +23,7 @@ keys.forEach((key) => {
 function addDigit(key) {
   if (operators.some(operator => operator.innerHTML === key)) {
     if (!operatorsArray.length) {
+      operatorsArray.push(key)
       display.innerHTML += key;
     } else {
       return true;
