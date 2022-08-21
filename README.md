@@ -37,3 +37,15 @@ Crie um botão animado
 - HTML
 - CSS
 - JavaScript
+
+## Dia 4 - Calculadora
+
+Crie uma calculadora.
+
+<img src="./public/day4.gif" style="margin-bottom: 10px;">
+
+**Tecnologias:**
+
+- HTML
+- CSS
+- JavaScript
