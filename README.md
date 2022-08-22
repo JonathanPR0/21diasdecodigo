@@ -28,7 +28,7 @@ Faça um Hello World customizado com fontes, cores e imagens.
 
 ## Dia 3 - Botão Animado
 
-Crie um botão animado
+Crie um botão animado.
 
 <img src="./public/day3.gif" style="margin-bottom: 10px;">
 
@@ -40,12 +40,23 @@ Crie um botão animado
 
 ## Dia 4 - Calculadora
 
-Desenvolva uma calculadora com HTML, CSS e JavaScript
+Desenvolva uma calculadora com HTML, CSS e JavaScript.
 
 <img src="./public/day4.gif" style="margin-bottom: 10px;">
 
 **Tecnologias:**
 
 - HTML
-- CSS
+- CSS (SASS)
 - JavaScript
+
+## Dia 5 - 404
+
+Desenvolva uma página customizada que exiba o erro 404.
+
+<img src="./public/day5.png" style="margin-bottom: 10px;">
+
+**Tecnologias:**
+
+- HTML
+- CSS
