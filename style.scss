@@ -136,6 +136,7 @@ section#challenges {
   div#gridchallenges {
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
+    gap: 16px;
   }
 
   div.challenge {
