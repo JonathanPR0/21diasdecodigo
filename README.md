@@ -1,5 +1,7 @@
 <h1 style="text-align: center; font-weight: bold">#21diasdecodigo 👨🏽‍💻</h1>
-O <em>21diasdecódigo</em> é um desafio proposto pela Rocketseat em que os devs que aceitarem terão que codar todos os dias durante 21 dias, cumprindo assim alguns minidesafios.
+O <em>21diasdecódigo</em> é um desafio em que cada dia deverá ser codado um mini projeto diferente, desde um simples hello world até uma landing page completa.
+
+<small style="font-size: 0.7rem; line-height: 50%;">Obs.: O interessante é que todos os dias fosse realizado um desafio, mas por causa de alguns imprevistos isso não foi possível</small>
 
 ---
 
@@ -11,8 +13,6 @@ Nesse primeiro dia deve-se criar um repositório para listar os projetos que ser
 
 - Markdown
 - HTML
-
----
 
 ## Dia 2 - Hello World!
 
@@ -55,6 +55,12 @@ Desenvolva uma calculadora com HTML, CSS e JavaScript.
 Desenvolva uma página customizada que exiba o erro 404.
 
 <img src="./public/day5.png" style="margin-bottom: 10px;">
+
+## Dia 6 - Glassmorphism
+
+Crie um card com o efeito glassmorphism
+
+<img src="./public/day6.gif" alt="gif do sexto desafio">
 
 **Tecnologias:**
 
