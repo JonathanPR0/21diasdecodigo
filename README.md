@@ -58,11 +58,23 @@ Desenvolva uma página customizada que exiba o erro 404.
 
 ## Dia 6 - Glassmorphism
 
-Crie um card com o efeito glassmorphism
+Crie um card com o efeito glassmorphism.
 
 <img src="./public/day6.gif" alt="gif do sexto desafio">
 
 **Tecnologias:**
 
 - HTML
+- CSS (SASS)
+
+## Dia 7 - Counter
+
+Desenvolva um contador.
+
+<img src="./public/day7.gif" alt="gif do sétimo desafio">
+
+**Tecnologias:**
+
+- HTML
 - CSS
+- JavaScript
