@@ -36,7 +36,6 @@ Crie um botão animado.
 
 - HTML
 - CSS
-- JavaScript
 
 ## Dia 4 - Calculadora
 
@@ -89,3 +88,4 @@ Desenvolva um toggle que altere o tema para claro e escuro.
 
 - HTML
 - CSS
+- JavaScript
