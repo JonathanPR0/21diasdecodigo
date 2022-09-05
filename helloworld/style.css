@@ -82,7 +82,7 @@ h1:after {
   h1.title {
     font-size: 2rem;
   }
-  .stamp {
+  span.stamp {
     width: 15vh;
     height: 15vh;
     top: 5%;

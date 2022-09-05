@@ -1,0 +1,97 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,400;0,500;0,600;0,700;1,400&display=swap');
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  font-family: 'Poppins', sans-serif;
+  font-size: 14px;
+  overflow: hidden;
+  height: 100%;
+  background-color: #27314b;
+}
+main > img {
+  position: relative;
+  width: 100vw;
+  height: 100vh;
+  object-fit: cover;
+  transition: ease-in-out 0.3s;
+}
+div.main {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  text-align: center;
+  gap: 32px;
+  position: absolute;
+  top: 0;
+  left: 0;
+
+  background: RGBA(189, 219, 178, 0.95);
+  color: #253d3d;
+  width: 100vw;
+  min-height: 100vh;
+  padding: 32px;
+}
+button {
+  width: 190px;
+  height: 100px;
+  border: none;
+  border-radius: 50px;
+  padding: 10px;
+  background: #71bcbd;
+}
+div.circle {
+  position: relative;
+  top: 0;
+  left: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 80px;
+  height: 80px;
+  border-radius: 50%;
+  background-color: #d9b45d;
+  transition: ease-in-out 0.3s;
+}
+div.circle div.sun {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 0 auto;
+  width: 65px;
+  height: 65px;
+  border-radius: 50%;
+  background-color: #f8dc6e;
+  transition: ease-in-out 0.35s;
+}
+div.circle svg.moon {
+  display: none;
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  transition: ease-in-out 0.35s;
+}
+
+.stamp {
+  width: 18vh;
+  height: 18vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 1rem;
+
+  position: absolute;
+  top: 8%;
+  left: 8%;
+  border-radius: 50%;
+  background-color: #fabd4a;
+  font-size: 1.2rem;
+  font-weight: 700;
+  color: #f4f2ff;
+  transform: rotate(-15deg);
+  box-shadow: 3px 3px 20px 2px RGBA(250, 189, 74, 0.6);
+}

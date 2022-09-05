@@ -239,11 +239,21 @@ main#calculator section.keys button.nine {
           box-shadow: 3px 3px 20px 2px RGBA(255, 128, 48, 0.6);
 }
 
+@media (max-width: 768px) {
+  span.stamp {
+    width: 15vh;
+    height: 15vh;
+    top: 5%;
+    left: 5%;
+    font-size: 1rem;
+  }
+}
+
 @media screen and (max-width: 500px) {
   main#calculator {
     min-width: 100%;
   }
-  .stamp {
+  span.stamp {
     width: 12vh;
     height: 12vh;
     top: 5%;

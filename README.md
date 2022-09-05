@@ -78,3 +78,14 @@ Desenvolva um contador.
 - HTML
 - CSS
 - JavaScript
+
+## Dia 8 - Counter
+
+Desenvolva um toogle que altere o tema para claro e escuro.
+
+<img src="./public/day8.gif" alt="gif do oitavo desafio">
+
+**Tecnologias:**
+
+- HTML
+- CSS

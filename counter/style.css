@@ -109,7 +109,7 @@ span.stamp {
 }
 
 @media (max-width: 768px) {
-  .stamp {
+  span.stamp {
     width: 15vh;
     height: 15vh;
     top: 5%;
