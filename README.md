@@ -36,7 +36,6 @@ Crie um botão animado.
 
 - HTML
 - CSS
-- JavaScript
 
 ## Dia 4 - Calculadora
 
@@ -79,7 +78,7 @@ Desenvolva um contador.
 - CSS
 - JavaScript
 
-## Dia 8 - Counter
+## Dia 8 - Tougle dark mode
 
 Desenvolva um toogle que altere o tema para claro e escuro.
 
@@ -89,3 +88,4 @@ Desenvolva um toogle que altere o tema para claro e escuro.
 
 - HTML
 - CSS
+- JavaScript
