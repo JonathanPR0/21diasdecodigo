@@ -79,9 +79,9 @@ Desenvolva um contador.
 - CSS
 - JavaScript
 
-## Dia 8 - Counter
+## Dia 8 - Toggle Dark Mode
 
-Desenvolva um toogle que altere o tema para claro e escuro.
+Desenvolva um toggle que altere o tema para claro e escuro.
 
 <img src="./public/day8.gif" alt="gif do oitavo desafio">
 
