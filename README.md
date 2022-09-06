@@ -55,6 +55,11 @@ Desenvolva uma página customizada que exiba o erro 404.
 
 <img src="./public/day5.png" style="margin-bottom: 10px;">
 
+**Tecnologias:**
+
+- HTML
+- CSS
+
 ## Dia 6 - Glassmorphism
 
 Crie um card com o efeito glassmorphism.
@@ -89,3 +94,14 @@ Desenvolva um toggle que altere o tema para claro e escuro.
 - HTML
 - CSS
 - JavaScript
+
+## Dia 8 - Toggle Dark Mode
+
+Crie uma animação de loading.
+
+<img src="./public/day9.gif" alt="gif do nono desafio">
+
+**Tecnologias:**
+
+- HTML
+- CSS
